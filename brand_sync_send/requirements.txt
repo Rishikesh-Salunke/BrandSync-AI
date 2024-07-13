@@ -1,0 +1,25 @@
+pandas
+numpy
+matplotlib
+# diffusers[torch]
+transformers
+accelerate
+# opencv-python
+huggingface_hub
+langchain-huggingface
+langchain
+bitsandbytes
+python-decouple
+streamlit
+diffusers
+safetensors
+huggingface_hub
+streamlit_navigation_bar
+# streamlit_card
+streamlit_extras
+# pytorch
+ipywidgets
+pyaudio
+vosk
+pydub
+speech_recognition
